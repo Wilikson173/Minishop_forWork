@@ -1,3 +1,4 @@
+```
 Дерево проекта
 .
 ├── HELP.md
@@ -101,3 +102,4 @@
                     └── MinistoreApplicationTests.class
 
 47 directories, 53 files
+```
